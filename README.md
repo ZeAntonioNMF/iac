@@ -1,2 +1,0 @@
-# IaC
-IaC's Repository
